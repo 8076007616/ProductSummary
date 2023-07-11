@@ -1,0 +1,8 @@
+.off {
+  background-image: url("./img/footer.png");
+}
+.Bracket {
+  border: 1px solid black;
+  margin-right: 5px;
+  border-radius: 2px;
+}

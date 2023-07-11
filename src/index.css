@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Gilroy", "sans-serif";
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("./fonts/Gilroy-Regular.ttf"), url("./fonts/Gilroy-ExtraBold.ttf"),
+    url("./fonts/Gilroy-Bold.ttf"), url("./fonts/Gilroy-Heavy.ttf"),
+    url("./fonts/Gilroy-Black.ttf");
+  format: "truetype";
+}
